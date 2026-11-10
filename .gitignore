@@ -1,0 +1,33 @@
+node_modules/
+dist/
+release/
+coverage/
+*.log
+.DS_Store
+.noobi-smoke/
+
+# Local credentials and machine-specific state
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+.noobi-private/
+*.tsbuildinfo
+*.tmp
+
+# Local project outputs, session state and personal materials
+recording-projects/
+user-data/
+codex-home/
+kimi-code-home/
+model-connections.json
+media-providers.json
+auth.json
+项目拆解文档/
+*.dmg
+*.mov
+*.mp4
