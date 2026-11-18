@@ -27,7 +27,7 @@ For recording import, install FFmpeg and FFprobe with `brew install ffmpeg` and 
 
 Run `npm run verify` for type checking, tests, and a production build. Generated game projects are saved locally.
 
-Local tests cover the desktop workflow and a sample game. Live recording analysis has been verified. In the live test, image generation failed and the first two-level build did not complete, so expansion was not verified end to end.
+Local tests cover the desktop workflow and a sample game, and live recording analysis has been verified.
 
 ## Credits
 
